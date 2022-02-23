@@ -54,7 +54,7 @@ function conectar() {
         }, 
         identity: {
             username: "hell_play_",
-            password: "oauth:h77j2l08av4z4ytpi88e6swchh2oy7"
+            password: "Ffjz@151285"
         },
         channels: canais
     };
